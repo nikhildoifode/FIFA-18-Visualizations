@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<meta charset="utf-8">
+<html>
+	<head>
+		<link rel="stylesheet" href="./static/style.css">
+		<script src="http://d3js.org/d3.v3.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.min.js"></script>
+		<script src="https://code.jquery.com/ui/1.11.3/jquery-ui.min.js"></script>
+		<title> Visualization Mini Project - 2 </title>
+	</head>
+	<body>
+        <ul>
+			<li><h4><a id="kMeansElbow" onclick="generateElbow()">K Means Elbow</a></h4></li>
+			<hr>
+			<li>
+				<h4> &nbsp; Sampling Type:</h4>
+				<p><input type ="radio" name="sampling" value="1"> Stratified Sampling </p>
+                <p><input type ="radio" name="sampling" value="0"> Random Sampling </p>
+                <p><input type ="radio" name="sampling" value="2"> No Sampling </p>
+			</li>
+			<hr>
+			<li>
+                <h4> &nbsp; Visualization:</h4>
+                <p><input type ="radio" name="visualization" value="3"> Scree Plot </p>
+				<p><input type ="radio" name="visualization" value="0"> PCA </p>
+				<p><input type ="radio" name="visualization" value="1"> MDS - Euclidean </p>
+				<p><input type ="radio" name="visualization" value="2"> MDS - Correlation </p>
+				<p><input type ="radio" name="visualization" value="4"> Scatter Plot Matrix </p>
+			</li> <br>
+			<hr>
+			<li>
+				<p> &nbsp; &nbsp; &nbsp; &nbsp;
+					<button class="button" onclick="generateViz()"> Display</button>
+				</p>
+			</li>
+		</ul>
+
+		<div style="margin-left:15%; padding:1px 16px;">
+			<h1 style="text-align:center; color:steelblue;">Visualization on FIFA 18 Top 500 Players</h1>
+			<p style="text-align:center; color:black; font-size: larger; display: none;" id="hack">
+				Scatter Plot Matrix
+			</p>
+		</div>
+		
+		<div class="viz"></div>
+	</body>
+
+	<script src="./static/main.js"></script>
+</html>

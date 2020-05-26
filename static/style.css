@@ -1,0 +1,85 @@
+body {
+	margin: 0;
+	background-color: cornsilk;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	width: 16%;
+	background-color: #333;
+	position: fixed;
+	height: 100%;
+	overflow: auto;
+}
+
+li h4 {
+	display: block;
+	color: beige;
+	text-decoration: none;
+	padding-left: 6px;
+	font-size: large;
+}
+
+a {
+	display: block;
+	color: beige;
+	padding: 8px 8px;
+	text-decoration: none;
+	font-size: large;
+}
+
+li a:hover:not(.active) {
+	background-color: black;
+	color: burlywood;
+}
+
+li p {
+	display: block;
+	color: burlywood;
+	padding-left: 16px;
+	text-decoration: none;
+}
+
+.button {
+	background-color: steelblue;
+	border: none;
+	color: white;
+	padding: 10px 25px;
+	padding-bottom: 10px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+.button:hover {
+	background-color: rgb(129, 89, 89);
+}
+
+path { 
+	stroke: steelblue;
+	stroke-width: 2;
+	fill: none;
+}
+
+.axis path, .axis line {
+	fill: none;
+	stroke: grey;
+	stroke-width: 1;
+	shape-rendering: crispEdges;
+}
+
+.dot {
+	stroke: #000;
+}
+
+.tooltip {
+	position: absolute;
+	width: 200px;
+	line-height: 1;
+	pointer-events: none;
+	border-radius: 2px;
+	font-weight: bold;
+	padding: 10px;
+}

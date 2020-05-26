@@ -1,0 +1,501 @@
+﻿short_name,age,nationality,club,league,overall,value_eur,wage_eur,international_reputation,work_rate,team_position,pace,physic,attacking_total,defending_total
+Cristiano Ronaldo,32,Portugal,Real Madrid,Spain Primera Division,94,95500000,565000,5,High,Forward,90,80,88,25
+L. Messi,30,Argentina,FC Barcelona,Spain Primera Division,93,105000000,565000,5,Medium,Forward,89,61,83,22
+Neymar,25,Brazil,Paris Saint-Germain,French Ligue 1,92,123000000,280000,5,High,Forward,92,60,78,26
+M. Neuer,31,Germany,FC Bayern Munchen,German Bundesliga,92,61000000,230000,5,Medium,Goalkeepr,,,24,10
+L. Suarez,30,Uruguay,FC Barcelona,Spain Primera Division,92,97000000,510000,5,High,Forward,82,81,84,38
+R. Lewandowski,28,Poland,FC Bayern Munchen,German Bundesliga,91,92000000,355000,4,High,Forward,81,82,82,29
+De Gea,26,Spain,Manchester United,English Premier League,90,64500000,215000,4,Medium,Goalkeepr,,,23,16
+E. Hazard,26,Belgium,Chelsea,English Premier League,90,90500000,295000,4,High,Forward,90,66,77,25
+Sergio Ramos,31,Spain,Real Madrid,Spain Primera Division,90,52000000,310000,4,High,Defender,76,83,72,89
+G. Higuain,29,Argentina,Juventus,Italian Serie A,90,77000000,275000,4,High,Forward,79,74,82,17
+T. Kroos,27,Germany,Real Madrid,Spain Primera Division,90,79000000,340000,4,Medium,Midfielder,56,70,77,71
+T. Courtois,25,Belgium,Chelsea,English Premier League,89,59000000,190000,4,Medium,Goalkeepr,,,17,15
+K. De Bruyne,26,Belgium,Manchester City,English Premier League,89,83000000,285000,4,High,Midfielder,75,75,80,40
+G. Buffon,39,Italy,Juventus,Italian Serie A,89,4500000,110000,4,Medium,Goalkeepr,,,19,11
+G. Chiellini,32,Italy,Juventus,Italian Serie A,89,38000000,225000,4,Low,Defender,74,85,56,91
+S. Aguero,29,Argentina,Manchester City,English Premier League,89,66500000,325000,4,High,Forward,87,72,78,15
+G. Bale,27,Wales,Real Madrid,Spain Primera Division,89,69500000,370000,4,High,Forward,94,76,84,53
+L. Modric,31,Croatia,Real Madrid,Spain Primera Division,89,57000000,340000,4,High,Midfielder,73,65,74,73
+A. Sanchez,28,Chile,Arsenal,English Premier League,89,67500000,265000,4,High,Forward,86,78,80,35
+J. Oblak,24,Slovenia,Atletico Madrid,Spain Primera Division,88,57000000,82000,3,Medium,Goalkeepr,,,16,15
+P. Dybala,23,Argentina,Juventus,Italian Serie A,88,79000000,215000,3,High,Midfielder,86,67,81,18
+A. Griezmann,26,France,Atletico Madrid,Spain Primera Division,88,75000000,150000,4,High,Forward,86,68,83,19
+Thiago,26,Spain,FC Bayern Munchen,German Bundesliga,88,70500000,225000,3,Medium,Midfielder,72,63,76,58
+A. Robben,33,Netherlands,FC Bayern Munchen,German Bundesliga,88,36000000,225000,4,High,Forward,86,63,77,27
+Z. Ibrahimovic,35,Sweden,Manchester United,English Premier League,88,27000000,240000,5,Medium,Forward,65,82,83,28
+Thiago Silva,32,Brazil,Paris Saint-Germain,French Ligue 1,88,34000000,175000,4,High,Defender,72,79,64,89
+H. Lloris,30,France,Tottenham Hotspur,English Premier League,88,38000000,165000,4,Medium,Goalkeepr,,,19,13
+M. Ozil,28,Germany,Arsenal,English Premier League,88,60000000,265000,4,Medium,Forward,71,58,75,19
+M. Hummels,28,Germany,FC Bayern Munchen,German Bundesliga,88,48000000,215000,4,High,Defender,64,76,70,89
+D. Godin,31,Uruguay,Atletico Madrid,Spain Primera Division,88,40000000,125000,3,Medium,Defender,65,78,63,87
+J. Boateng,28,Germany,FC Bayern Munchen,German Bundesliga,88,48000000,215000,4,Medium,Defender,75,84,63,90
+L. Bonucci,30,Italy,Milan,Italian Serie A,88,44000000,210000,3,Low,Defender,68,81,62,87
+P. Aubameyang,28,Gabon,Borussia Dortmund,German Bundesliga,88,61000000,165000,3,Medium,Forward,96,71,81,30
+P. Pogba,24,France,Manchester United,English Premier League,87,66500000,195000,4,High,Midfielder,74,88,79,67
+C. Eriksen,25,Denmark,Tottenham Hotspur,English Premier League,87,65000000,165000,3,High,Midfielder,75,63,75,39
+M. Verratti,24,Italy,Paris Saint-Germain,French Ligue 1,87,64500000,130000,3,High,Midfielder,65,68,68,80
+N. Kante,26,France,Chelsea,English Premier League,87,52500000,190000,3,Medium,Midfielder,81,84,65,83
+Pique,30,Spain,FC Barcelona,Spain Primera Division,87,37500000,240000,4,High,Defender,65,76,68,86
+S. Handanovic,32,Slovenia,Inter,Italian Serie A,87,29000000,91000,3,Medium,Goalkeepr,,,16,13
+David Silva,31,Spain,Manchester City,English Premier League,87,44000000,220000,4,High,Midfielder,68,61,76,33
+I. Rakitic,29,Croatia,FC Barcelona,Spain Primera Division,87,48500000,275000,4,Medium,Midfielder,65,66,78,57
+M. Hamsik,29,Slovakia,Napoli,Italian Serie A,87,48500000,130000,3,High,Midfielder,74,71,79,65
+Marcelo,29,Brazil,Real Madrid,Spain Primera Division,87,38000000,250000,4,High,Defender,78,79,73,84
+E. Cavani,30,Uruguay,Paris Saint-Germain,French Ligue 1,87,48500000,160000,4,High,Forward,77,81,81,32
+A. Vidal,30,Chile,FC Bayern Munchen,German Bundesliga,87,37500000,160000,4,High,Midfielder,75,84,79,83
+R. Lukaku,24,Belgium,Manchester United,English Premier League,86,59000000,210000,3,Medium,Forward,83,84,78,29
+Isco,25,Spain,Real Madrid,Spain Primera Division,86,56500000,250000,3,High,Midfielder,71,62,73,50
+H. Kane,23,England,Tottenham Hotspur,English Premier League,86,59000000,165000,3,High,Forward,71,83,78,38
+Coutinho,25,Brazil,Liverpool,English Premier League,86,56000000,205000,3,High,Midfielder,82,64,72,36
+J. Rodriguez,25,Colombia,FC Bayern Munchen,German Bundesliga,86,56000000,250000,4,Medium,Midfielder,76,68,81,32
+Alex Sandro,26,Brazil,Juventus,Italian Serie A,86,44000000,175000,3,High,Defender,86,84,73,82
+D. Alaba,25,Austria,FC Bayern Munchen,German Bundesliga,86,44500000,150000,4,High,Defender,86,74,74,82
+T. Alderweireld,28,Belgium,Tottenham Hotspur,English Premier League,86,40500000,165000,3,Medium,Defender,66,80,61,88
+P. Cech,35,Czech Republic,Arsenal,English Premier League,86,10500000,92000,4,Medium,Goalkeepr,,,20,12
+Pepe,34,Portugal,Besiktas JK,Turkish Super Lig,86,13500000,94000,4,Medium,Defender,68,80,53,86
+F. Ribery,34,France,FC Bayern Munchen,German Bundesliga,86,22500000,175000,4,High,Midfielder,82,58,73,21
+Cesc Fabregas,30,Spain,Chelsea,English Premier League,86,41000000,210000,4,High,Midfielder,63,64,81,62
+K. Benzema,29,France,Real Madrid,Spain Primera Division,86,44500000,295000,4,Medium,Forward,78,74,81,13
+Miranda,32,Brazil,Inter,Italian Serie A,86,25500000,115000,3,Medium,Defender,71,77,59,88
+Sokratis,29,Greece,Borussia Dortmund,German Bundesliga,86,34500000,110000,3,Medium,Defender,78,84,58,88
+D. Mertens,30,Belgium,Napoli,Italian Serie A,86,43000000,135000,3,High,Forward,90,55,70,37
+Javi Martinez,28,Spain,FC Bayern Munchen,German Bundesliga,86,36000000,165000,3,Medium,Defender,50,80,68,86
+R. Nainggolan,29,Belgium,Roma,Italian Serie A,86,42500000,130000,3,High,Midfielder,78,83,73,84
+Diego Costa,28,Spain,Chelsea,English Premier League,86,46000000,235000,4,High,Forward,75,88,77,34
+David Luiz,30,Brazil,Chelsea,English Premier League,86,33000000,190000,4,Medium,Defender,70,81,70,83
+M. Reus,28,Germany,Borussia Dortmund,German Bundesliga,86,45000000,120000,4,Medium,Midfielder,88,64,78,37
+Sergio Busquets,28,Spain,FC Barcelona,Spain Primera Division,86,36000000,250000,4,Medium,Midfielder,40,81,64,82
+T. Muller,27,Germany,FC Bayern Munchen,German Bundesliga,86,47500000,190000,4,High,Midfielder,77,71,82,39
+R. Varane,24,France,Real Madrid,Spain Primera Division,85,46500000,175000,3,Medium,Defender,79,79,55,85
+Y. Carrasco,23,Belgium,Atletico Madrid,Spain Primera Division,85,51500000,77000,3,High,Midfielder,88,63,72,28
+M. ter Stegen,25,Germany,FC Barcelona,Spain Primera Division,85,35500000,155000,3,Medium,Goalkeepr,,,17,11
+Casemiro,25,Brazil,Real Madrid,Spain Primera Division,85,42000000,195000,3,Medium,Midfielder,62,86,64,85
+B. Leno,25,Germany,Bayer 04 Leverkusen,German Bundesliga,85,34000000,61000,3,Medium,Goalkeepr,,,16,14
+A. Lacazette,26,France,Arsenal,English Premier League,85,48500000,180000,3,High,Forward,86,77,77,32
+Azpilicueta,27,Spain,Chelsea,English Premier League,85,37500000,160000,3,Medium,Defender,79,78,66,87
+I. Gundogan,26,Germany,Manchester City,English Premier League,85,46000000,190000,3,High,Midfielder,71,71,72,63
+M. Pjanic,27,Bosnia Herzegovina,Juventus,Italian Serie A,85,43500000,160000,3,Medium,Midfielder,74,69,72,66
+L. Insigne,26,Italy,Napoli,Italian Serie A,85,45000000,115000,3,High,Forward,90,50,74,21
+A. Barzagli,36,Italy,Juventus,Italian Serie A,85,5000000,105000,3,Low,Defender,71,73,47,89
+V. Kompany,31,Belgium,Manchester City,English Premier League,85,26000000,170000,4,Medium,Defender,63,83,62,84
+Filipe Luis,31,Brazil,Atletico Madrid,Spain Primera Division,85,25000000,81000,3,High,Defender,79,79,69,85
+S. Ruffier,30,France,AS Saint-Etienne,French Ligue 1,85,24500000,49000,3,Medium,Goalkeepr,,,16,11
+B. Matuidi,30,France,Juventus,Italian Serie A,85,28500000,145000,3,High,Midfielder,78,84,74,83
+J. Vertonghen,30,Belgium,Tottenham Hotspur,English Premier League,85,28500000,130000,3,High,Defender,67,81,67,85
+C. Marchisio,31,Italy,Juventus,Italian Serie A,85,33000000,160000,3,High,Midfielder,78,74,74,77
+A. Di Maria,29,Argentina,Paris Saint-Germain,French Ligue 1,85,37500000,145000,4,High,Forward,86,68,74,51
+Jordi Alba,28,Spain,FC Barcelona,Spain Primera Division,85,30500000,215000,3,High,Defender,93,72,71,83
+K. Glik,29,Poland,AS Monaco,French Ligue 1,85,30000000,60000,3,Low,Defender,56,84,44,85
+D. Subasic,32,Croatia,AS Monaco,French Ligue 1,85,22000000,46000,3,Medium,Goalkeepr,,,14,14
+H. Mkhitaryan,28,Armenia,Manchester United,English Premier League,85,39000000,195000,3,High,Midfielder,86,70,75,52
+K. Navas,30,Costa Rica,Real Madrid,Spain Primera Division,85,24500000,165000,3,Medium,Goalkeepr,,,16,13
+Marco Asensio,21,Spain,Real Madrid,Spain Primera Division,84,46000000,175000,3,Medium,Midfielder,78,61,74,37
+Bernardo Silva,22,Portugal,Manchester City,English Premier League,84,43500000,165000,2,Medium,Midfielder,81,61,71,42
+T. Horn,24,Germany,1. FC Koln,German Bundesliga,84,31000000,39000,2,Medium,Goalkeepr,,,19,12
+D. Alli,21,England,Tottenham Hotspur,English Premier League,84,43000000,115000,3,High,Midfielder,76,78,77,60
+M. Icardi,24,Argentina,Inter,Italian Serie A,84,42000000,105000,3,Medium,Forward,78,70,75,20
+A. Laporte,23,France,Athletic Club de Bilbao,Spain Primera Division,84,35500000,36000,2,Medium,Defender,69,78,60,86
+E. Bailly,23,Ivory Coast,Manchester United,English Premier League,84,35500000,150000,2,Medium,Defender,78,84,56,84
+Koke,25,Spain,Atletico Madrid,Spain Primera Division,84,39500000,84000,3,High,Midfielder,70,75,72,60
+Morata,24,Spain,Chelsea,English Premier League,84,41000000,170000,3,High,Forward,82,73,79,16
+K. Koulibaly,26,Senegal,Napoli,Italian Serie A,84,32500000,96000,3,High,Defender,73,86,40,86
+J. Draxler,23,Germany,Paris Saint-Germain,French Ligue 1,84,39500000,120000,3,Medium,Forward,78,64,79,29
+Carvajal,25,Spain,Real Madrid,Spain Primera Division,84,32000000,195000,3,High,Defender,82,79,61,85
+S. Mane,25,Senegal,Liverpool,English Premier League,84,39000000,175000,3,High,Forward,93,75,71,35
+R. Burki,26,Switzerland,Borussia Dortmund,German Bundesliga,84,26000000,69000,3,Medium,Goalkeepr,,,18,14
+S. Mustafi,25,Germany,Arsenal,English Premier League,84,31500000,145000,3,Medium,Defender,67,79,63,83
+K. Manolas,26,Greece,Roma,Italian Serie A,84,31500000,96000,3,Low,Defender,80,83,39,87
+Sergio Asenjo,28,Spain,Villarreal CF,Spain Primera Division,84,25000000,46000,2,Medium,Goalkeepr,,,22,14
+R. Fahrmann,28,Germany,FC Schalke 04,German Bundesliga,84,25000000,54000,2,Medium,Goalkeepr,,,15,11
+K. Strootman,27,Netherlands,Roma,Italian Serie A,84,35000000,105000,3,High,Midfielder,67,82,72,77
+Aduriz,36,Spain,Athletic Club de Bilbao,Spain Primera Division,84,11000000,38000,3,High,Forward,70,79,78,46
+A. Gomez,29,Argentina,Atalanta,Italian Serie A,84,31000000,60000,3,High,Forward,90,58,70,29
+Dani Alves,34,Brazil,Paris Saint-Germain,French Ligue 1,84,9000000,115000,4,High,Defender,82,66,73,78
+G. Cahill,31,England,Chelsea,English Premier League,84,21000000,160000,3,Medium,Defender,63,78,56,84
+L. Koscielny,31,France,Arsenal,English Premier League,84,21000000,150000,3,Medium,Defender,75,78,55,85
+Falcao,31,Colombia,AS Monaco,French Ligue 1,84,28000000,68000,3,High,Forward,69,74,79,26
+D. Payet,30,France,Olympique de Marseille,French Ligue 1,84,29500000,60000,3,High,Forward,75,70,77,35
+M. Benatia,30,Morocco,Juventus,Italian Serie A,84,23000000,145000,3,Medium,Defender,74,82,53,85
+Juan Mata,29,Spain,Manchester United,English Premier League,84,30500000,195000,3,Medium,Midfielder,67,54,76,25
+S. Khedira,30,Germany,Juventus,Italian Serie A,84,29000000,160000,3,High,Midfielder,64,84,76,79
+Willian,28,Brazil,Chelsea,English Premier League,84,31500000,200000,3,High,Forward,88,64,65,51
+E. Dzeko,31,Bosnia Herzegovina,Roma,Italian Serie A,84,28000000,115000,3,Medium,Forward,64,72,78,18
+I. Perisic,28,Croatia,Inter,Italian Serie A,84,31500000,110000,3,High,Midfielder,84,75,80,39
+Bruno,33,Spain,Villarreal CF,Spain Primera Division,84,18500000,59000,3,Medium,Midfielder,41,77,64,80
+Pedro,29,Spain,Chelsea,English Premier League,84,30500000,200000,3,High,Forward,82,62,73,31
+Ander Herrera,27,Spain,Manchester United,English Premier League,84,32000000,190000,3,High,Midfielder,73,77,72,78
+K. Mbappe,18,France,Paris Saint-Germain,French Ligue 1,83,41500000,31000,3,High,Forward,90,74,77,42
+O. Dembele,20,France,FC Barcelona,Spain Primera Division,83,40000000,150000,3,High,Forward,91,56,69,31
+T. Lemar,21,France,AS Monaco,French Ligue 1,83,38500000,37000,3,High,Midfielder,85,70,74,62
+A. Belotti,23,Italy,Torino,Italian Serie A,83,37000000,58000,3,High,Forward,82,84,72,23
+Marquinhos,23,Brazil,Paris Saint-Germain,French Ligue 1,83,30500000,75000,3,Medium,Defender,71,76,59,85
+Ederson,23,Brazil,Manchester City,English Premier League,83,26000000,87000,2,Medium,Goalkeepr,,,16,11
+N. Sule,21,Germany,FC Bayern Munchen,German Bundesliga,83,30500000,78000,2,Medium,Defender,65,81,48,83
+G. Rulli,25,Argentina,Real Sociedad,Spain Primera Division,83,25500000,28000,3,Medium,Goalkeepr,,,17,15
+M. Perin,24,Italy,Genoa,Italian Serie A,83,25000000,28000,2,Medium,Goalkeepr,,,17,15
+S. de Vrij,25,Netherlands,Lazio,Italian Serie A,83,29000000,56000,3,Medium,Defender,68,76,50,85
+S. Umtiti,23,France,FC Barcelona,Spain Primera Division,83,29500000,135000,3,Medium,Defender,74,79,68,83
+Fabinho,23,Brazil,AS Monaco,French Ligue 1,83,29500000,37000,3,Medium,Midfielder,74,83,66,84
+Joao Mario,24,Portugal,Inter,Italian Serie A,83,34000000,70000,3,Medium,Midfielder,73,71,70,68
+N. Keita,22,Guinea,RB Leipzig,German Bundesliga,83,34000000,68000,2,High,Midfielder,73,70,65,60
+Roberto Firmino,25,Brazil,Liverpool,English Premier League,83,34000000,135000,3,High,Forward,77,77,78,44
+J. Gimenez,22,Uruguay,Atletico Madrid,Spain Primera Division,83,28500000,53000,2,Medium,Defender,70,81,52,86
+M. Musacchio,26,Argentina,Milan,Italian Serie A,83,27000000,105000,3,Medium,Defender,70,78,60,85
+Oscar,25,Brazil,Brazil,Chinese Super League,83,34048387,129625,3,Medium,Midfielder,74,47,69,45
+A. Lopes,26,Portugal,Olympique Lyonnais,French Ligue 1,83,22500000,60000,2,Medium,Goalkeepr,,,20,14
+Danilo Pereira,25,Portugal,FC Porto,Portuguese Primeira Liga,83,27500000,18000,3,Medium,Midfielder,68,87,64,81
+V. van Dijk,25,Netherlands,Southampton,English Premier League,83,27500000,89000,3,High,Defender,73,85,61,84
+William Carvalho,25,Portugal,Sporting CP,Portuguese Primeira Liga,83,27500000,21000,3,Medium,Midfielder,53,83,66,78
+M. Salah,25,Egypt,Liverpool,English Premier League,83,32500000,135000,3,High,Forward,93,66,72,40
+M. Schneiderlin,27,France,Everton,English Premier League,83,25500000,115000,2,Medium,Midfielder,68,81,68,79
+J. Matip,25,Cameroon,Liverpool,English Premier League,83,26500000,110000,2,Medium,Defender,67,78,60,82
+E. Forsberg,25,Sweden,RB Leipzig,German Bundesliga,83,31500000,75000,2,High,Midfielder,75,66,71,22
+K. Schmeichel,30,Denmark,Leicester City,English Premier League,83,19000000,65000,2,Medium,Goalkeepr,,,21,14
+Y. Sommer,28,Switzerland,Borussia Monchengladbach,German Bundesliga,83,21000000,39000,3,Medium,Goalkeepr,,,17,14
+O. Toprak,27,Turkey,Borussia Dortmund,German Bundesliga,83,24500000,66000,3,Medium,Defender,76,75,58,84
+K. Walker,27,England,Manchester City,English Premier League,83,24000000,130000,3,High,Defender,90,81,67,82
+I. Gueye,27,Senegal,Everton,English Premier League,83,24500000,115000,2,Medium,Midfielder,76,81,59,84
+R. Mahrez,26,Algeria,Leicester City,English Premier League,83,30500000,88000,3,Medium,Midfielder,82,55,70,22
+Casillas,36,Spain,FC Porto,Portuguese Primeira Liga,83,3500000,10000,4,Medium,Goalkeepr,,,17,12
+Y. Toure,34,Ivory Coast,Manchester City,English Premier League,83,12500000,145000,4,Medium,Midfielder,63,83,75,73
+Quaresma,33,Portugal,Besiktas JK,Turkish Super Lig,83,15500000,67000,3,High,Midfielder,83,60,72,13
+Jose Reina,34,Spain,Napoli,Italian Serie A,83,10500000,59000,3,Medium,Goalkeepr,,,14,19
+D. De Rossi,33,Italy,Roma,Italian Serie A,83,10500000,73000,3,Medium,Midfielder,68,82,69,80
+Nani,30,Portugal,Lazio,Italian Serie A,83,24500000,47000,3,High,Forward,81,64,72,19
+W. Sneijder,33,Netherlands,OGC Nice,French Ligue 1,83,15500000,47000,3,Medium,Midfielder,69,57,71,37
+J. Mascherano,33,Argentina,FC Barcelona,Spain Primera Division,83,10500000,155000,4,Medium,Defender,65,77,61,82
+Santi Cazorla,32,Spain,Arsenal,English Premier League,83,19500000,130000,3,High,Midfielder,65,63,75,58
+Diego Lopez,35,Spain,RCD Espanyol,Spain Primera Division,83,6000000,19000,3,Medium,Goalkeepr,,,15,14
+Juanfran,32,Spain,Atletico Madrid,Spain Primera Division,83,14500000,62000,3,High,Defender,82,77,64,83
+L. Biglia,31,Argentina,Milan,Italian Serie A,83,17500000,105000,3,Medium,Midfielder,69,75,68,76
+L. Perrin,31,France,AS Saint-Etienne,French Ligue 1,83,17500000,46000,2,Medium,Defender,68,80,66,87
+Borja Valero,32,Spain,Inter,Italian Serie A,83,20000000,80000,3,Medium,Midfielder,70,65,73,62
+M. Dembele,29,Belgium,Tottenham Hotspur,English Premier League,83,25000000,115000,3,Medium,Midfielder,76,84,72,72
+A. Valencia,31,Ecuador,Manchester United,English Premier League,83,17000000,130000,2,High,Defender,87,85,71,79
+E. Garay,30,Argentina,Valencia CF,Spain Primera Division,83,19000000,40000,3,Medium,Defender,43,80,65,84
+L. Piszczek,32,Poland,Borussia Dortmund,German Bundesliga,83,14500000,66000,3,Medium,Defender,79,80,74,82
+K. Gameiro,30,France,Atletico Madrid,Spain Primera Division,83,25000000,73000,3,Medium,Forward,87,68,76,32
+Jonas,33,Brazil,SL Benfica,Portuguese Primeira Liga,83,16500000,21000,3,High,Forward,65,65,79,28
+Rui Patricio,29,Portugal,Sporting CP,Portuguese Primeira Liga,83,17500000,19000,3,Medium,Goalkeepr,,,17,12
+E. Banega,29,Argentina,Sevilla FC,Spain Primera Division,83,25500000,27000,3,Medium,Midfielder,69,67,69,62
+B. Howedes,29,Germany,Juventus,Italian Serie A,83,20000000,50000,3,Medium,Defender,64,77,60,83
+A. Lallana,29,England,Liverpool,English Premier League,83,25000000,135000,3,High,Midfielder,73,74,76,63
+M. Manduzic,31,Croatia,Juventus,Italian Serie A,83,23500000,135000,3,High,Midfielder,72,87,81,61
+N. Gaitan,29,Argentina,Atletico Madrid,Spain Primera Division,83,25500000,70000,3,Medium,Midfielder,81,55,74,38
+S. Giovinco,30,Italy,Toronto FC,USA Major League Soccer,83,25000000,15000,2,High,Forward,84,57,69,27
+Adrien Silva,28,Portugal,Portugal,French Ligue 1,83,34048387,129625,3,Medium,Midfielder,65,72,74,77
+Jose Callejon,30,Spain,Napoli,Italian Serie A,83,24500000,87000,3,High,Forward,90,65,75,29
+S. N'Zonzi,28,France,Sevilla FC,Spain Primera Division,83,21000000,25000,2,Medium,Midfielder,57,88,68,79
+B. Dost,28,Netherlands,Sporting CP,Portuguese Primeira Liga,83,27000000,28000,3,Medium,Forward,60,83,75,34
+G. Bonaventura,27,Italy,Milan,Italian Serie A,83,26500000,115000,3,High,Midfielder,78,73,75,67
+S. Kagawa,28,Japan,Borussia Dortmund,German Bundesliga,83,26000000,75000,3,Medium,Midfielder,70,49,67,27
+J. Pastore,28,Argentina,Paris Saint-Germain,French Ligue 1,83,25500000,100000,3,High,Midfielder,71,64,76,53
+N. Matic,28,Serbia,Manchester United,English Premier League,83,21000000,140000,3,Medium,Midfielder,64,87,73,78
+N. Otamendi,29,Argentina,Manchester City,English Premier League,83,20000000,140000,3,High,Defender,63,81,63,83
+Iago Aspas,29,Spain,RC Celta,Spain Primera Division,83,26000000,39000,2,High,Forward,81,63,79,20
+Vitolo,27,Spain,UD Las Palmas,Spain Primera Division,83,27000000,68000,2,High,Midfielder,80,76,76,23
+G. Donnarumma,18,Italy,Milan,Italian Serie A,82,28500000,35000,3,Medium,Goalkeepr,,,16,14
+L. Sane,21,Germany,Manchester City,English Premier League,82,34500000,125000,2,High,Forward,94,70,73,31
+Saul,22,Spain,Atletico Madrid,Spain Primera Division,82,32000000,59000,3,Medium,Midfielder,73,75,68,76
+A. Martial,21,France,Manchester United,English Premier League,82,33000000,115000,3,Medium,Midfielder,90,74,75,37
+K. Balde Diao,22,Senegal,AS Monaco,French Ligue 1,82,32500000,46000,2,High,Forward,92,70,71,25
+Deulofeu,23,Spain,FC Barcelona,Spain Primera Division,82,31000000,165000,3,High,Forward,93,61,67,24
+C. Tolisso,22,France,FC Bayern Munchen,German Bundesliga,82,30500000,98000,2,High,Midfielder,74,83,74,74
+M. Kovacic,23,Croatia,Real Madrid,Spain Primera Division,82,30000000,150000,3,High,Midfielder,81,69,68,61
+L. Goretzka,22,Germany,FC Schalke 04,German Bundesliga,82,30000000,46000,3,High,Midfielder,84,76,74,76
+Andre Gomes,23,Portugal,FC Barcelona,Spain Primera Division,82,30000000,150000,3,Medium,Midfielder,68,81,69,69
+F. Bernardeschi,23,Italy,Juventus,Italian Serie A,82,30500000,110000,2,High,Midfielder,84,65,70,32
+J. Tah,21,Germany,Bayer 04 Leverkusen,German Bundesliga,82,26000000,47000,2,Medium,Defender,72,78,46,83
+T. Bakayoko,22,France,Chelsea,English Premier League,82,26000000,105000,2,Medium,Midfielder,73,83,56,82
+E. Dier,23,England,Tottenham Hotspur,English Premier League,82,25000000,85000,2,Medium,Midfielder,72,85,66,81
+Suso,23,Spain,Milan,Italian Serie A,82,29500000,110000,3,High,Forward,82,51,71,20
+R. Sterling,22,England,Manchester City,English Premier League,82,29500000,140000,3,High,Forward,93,61,65,53
+Sergio Rico,23,Spain,Sevilla FC,Spain Primera Division,82,21500000,16000,2,Medium,Goalkeepr,,,16,13
+T. Werner,21,Germany,RB Leipzig,German Bundesliga,82,30500000,68000,3,High,Forward,91,65,77,19
+Willian Jose,25,Brazil,Real Sociedad,Spain Primera Division,82,29000000,42000,2,Medium,Forward,67,77,76,30
+Inigo Martinez,26,Spain,Real Sociedad,Spain Primera Division,82,24000000,37000,2,Medium,Defender,71,79,56,83
+S. Savic,26,Montenegro,Atletico Madrid,Spain Primera Division,82,24000000,62000,2,Medium,Defender,63,74,49,84
+A. Rudiger,24,Germany,Chelsea,English Premier League,82,24500000,105000,2,Medium,Defender,74,79,55,82
+G. Wijnaldum,26,Netherlands,Liverpool,English Premier League,82,27000000,130000,3,High,Midfielder,81,74,74,64
+V. Wanyama,26,Kenya,Tottenham Hotspur,English Premier League,82,23000000,99000,2,Medium,Midfielder,64,91,67,81
+X. Shaqiri,25,Switzerland,Stoke City,English Premier League,82,28000000,85000,3,High,Forward,83,65,68,43
+G. Xhaka,24,Switzerland,Arsenal,English Premier League,82,27500000,110000,3,Medium,Midfielder,50,78,62,71
+H. Son,24,Korea Republic,Tottenham Hotspur,English Premier League,82,28000000,95000,3,High,Midfielder,86,66,75,20
+Lucas,24,Brazil,Paris Saint-Germain,French Ligue 1,82,28000000,92000,3,Medium,Forward,93,62,69,44
+D. Klaassen,24,Netherlands,Everton,English Premier League,82,27500000,110000,2,High,Midfielder,73,79,77,65
+F. Thauvin,24,France,Olympique de Marseille,French Ligue 1,82,28000000,40000,2,High,Forward,82,63,75,30
+Manu Trigueros,25,Spain,Villarreal CF,Spain Primera Division,82,27500000,43000,2,Medium,Midfielder,73,69,73,61
+Q. Promes,25,Netherlands,Spartak Moscow,Russian Premier League,82,28000000,76000,2,High,Midfielder,89,67,72,25
+N. Fekir,23,France,Olympique Lyonnais,French Ligue 1,82,28000000,70000,3,Medium,Midfielder,80,73,71,29
+J. Henderson,27,England,Liverpool,English Premier League,82,21500000,115000,2,High,Midfielder,72,81,74,76
+W. Szczesny,27,Poland,Juventus,Italian Serie A,82,18000000,90000,3,Medium,Goalkeepr,,,17,12
+K. Trapp,26,Germany,Paris Saint-Germain,French Ligue 1,82,18500000,71000,2,Medium,Goalkeepr,,,15,11
+N. Clyne,26,England,Liverpool,English Premier League,82,22000000,115000,2,High,Defender,83,76,64,83
+O. Baumann,27,Germany,TSG 1899 Hoffenheim,German Bundesliga,82,18000000,37000,2,Medium,Goalkeepr,,,16,14
+A. Florenzi,26,Italy,Roma,Italian Serie A,82,22000000,73000,3,High,Defender,85,76,78,77
+D. Rose,26,England,Tottenham Hotspur,English Premier League,82,21000000,99000,3,Medium,Defender,81,78,68,84
+L. Bender,28,Germany,Bayer 04 Leverkusen,German Bundesliga,82,20000000,64000,3,High,Midfielder,68,79,68,81
+A. Ramsey,26,Wales,Arsenal,English Premier League,82,25500000,130000,3,High,Midfielder,68,75,74,66
+C. Immobile,27,Italy,Lazio,Italian Serie A,82,26000000,70000,3,High,Forward,81,74,73,32
+Victor Ruiz,28,Spain,Villarreal CF,Spain Primera Division,82,20000000,43000,2,Medium,Defender,58,81,56,84
+M. Rojo,27,Argentina,Manchester United,English Premier League,82,21000000,130000,3,Medium,Defender,71,83,66,80
+Lucas Vazquez,26,Spain,Real Madrid,Spain Primera Division,82,26000000,185000,2,High,Forward,81,67,70,35
+J. Seri,25,Ivory Coast,OGC Nice,French Ligue 1,82,26000000,45000,2,High,Midfielder,80,74,67,72
+R. Jarstein,32,Norway,Hertha BSC,German Bundesliga,82,12500000,30000,2,Medium,Goalkeepr,,,19,12
+S. Lichtsteiner,33,Switzerland,Juventus,Italian Serie A,82,8500000,115000,3,High,Defender,77,77,68,81
+David Villa,35,Spain,New York City FC,USA Major League Soccer,82,10000000,12000,3,High,Forward,69,69,76,29
+Fernandinho,32,Brazil,Manchester City,English Premier League,82,12500000,130000,3,Medium,Midfielder,73,78,70,77
+A. Turan,30,Turkey,FC Barcelona,Spain Primera Division,82,20500000,170000,3,High,Midfielder,71,72,77,61
+Raffael,32,Brazil,Borussia Monchengladbach,German Bundesliga,82,17500000,54000,2,High,Forward,72,67,75,34
+M. Gomez,31,Germany,VfL Wolfsburg,German Bundesliga,82,20000000,85000,3,High,Forward,72,78,75,21
+J. Hart,30,England,West Ham United,English Premier League,82,14000000,110000,3,Medium,Goalkeepr,,,18,14
+Raul Albiol,31,Spain,Napoli,Italian Serie A,82,15000000,73000,3,Low,Defender,57,76,49,84
+B. Costil,29,France,FC Girondins de Bordeaux,French Ligue 1,82,15000000,46000,2,Medium,Goalkeepr,,,17,14
+Joao Moutinho,30,Portugal,AS Monaco,French Ligue 1,82,20500000,48000,3,High,Midfielder,69,72,76,69
+A. Consigli,30,Italy,Sassuolo,Italian Serie A,82,14000000,52000,2,Medium,Goalkeepr,,,16,16
+L. Baines,32,England,Everton,English Premier League,82,12500000,115000,3,High,Defender,70,71,73,80
+S. Mandanda,32,France,Olympique de Marseille,French Ligue 1,82,12500000,31000,3,Medium,Goalkeepr,,,18,13
+A. Williams,32,Wales,Everton,English Premier League,82,12500000,115000,3,Medium,Defender,65,81,50,81
+S. Nasri,30,France,Antalyaspor,Turkish Super Lig,82,21000000,29000,3,High,Midfielder,78,59,71,39
+G. Castro,30,Germany,Borussia Dortmund,German Bundesliga,82,20500000,72000,2,Medium,Midfielder,71,68,70,74
+E. Viviano,31,Italy,Sampdoria,Italian Serie A,82,13500000,37000,2,Medium,Forward,,,18,14
+C. Vela,28,Mexico,Real Sociedad,Spain Primera Division,82,22500000,46000,3,High,Forward,84,66,78,16
+D. Sturridge,27,England,Liverpool,English Premier League,82,23500000,140000,3,Medium,Forward,76,68,73,17
+Naldo,34,Brazil,FC Schalke 04,German Bundesliga,82,6500000,48000,3,High,Defender,69,73,65,83
+A. Begovic,30,Bosnia Herzegovina,Bournemouth,English Premier League,82,14000000,64000,3,Medium,Goalkeepr,,,15,12
+C. Bravo,34,Chile,Manchester City,English Premier League,82,9000000,110000,3,Medium,Goalkeepr,,,22,16
+A. Witsel,28,Belgium,Borussia Dortmund,German Bundesliga,82,34048387,129625,3,Medium,Midfielder,71,80,73,71
+Benat,30,Spain,Athletic Club de Bilbao,Spain Primera Division,82,20500000,35000,2,Medium,Midfielder,58,74,69,67
+J. Hernandez,29,Mexico,West Ham United,English Premier League,82,22000000,135000,3,Medium,Forward,79,59,76,25
+B. Ivanovic,33,Serbia,Zenit St. Petersburg,Russian Premier League,82,9000000,73000,3,High,Defender,62,83,67,84
+O. Giroud,30,France,Arsenal,English Premier League,82,21500000,140000,3,Medium,Forward,53,83,79,28
+F. Fazio,30,Argentina,Roma,Italian Serie A,82,16500000,73000,3,Medium,Defender,30,81,55,83
+V. Corluka,31,Croatia,Lokomotiv Moscow,Russian Premier League,82,15000000,54000,3,High,Defender,58,83,61,83
+Renato Augusto,29,Brazil,Beijing Sinobo Guoan FC,Chinese Super League,80,34048387,129625,2,Medium,Midfielder,67,70,72,65
+L. Fejsa,28,Serbia,SL Benfica,Portuguese Primeira Liga,82,18000000,18000,2,Low,Midfielder,53,85,61,80
+O. Karnezis,31,Greece,Watford,English Premier League,82,13500000,30000,2,Medium,Goalkeepr,,,19,17
+M. Kruse,29,Germany,SV Werder Bremen,German Bundesliga,82,22000000,47000,2,Medium,Forward,71,69,79,35
+M. Arnautovic,28,Austria,West Ham United,English Premier League,82,22500000,125000,3,Medium,Midfielder,77,81,77,46
+Y. Brahimi,27,Algeria,FC Porto,Portuguese Primeira Liga,82,23000000,21000,3,Medium,Midfielder,80,56,69,28
+G. Sigurdsson,27,Iceland,Everton,English Premier League,82,23000000,130000,3,High,Midfielder,66,70,77,55
+M. Balotelli,26,Italy,OGC Nice,French Ligue 1,82,24500000,51000,4,Low,Forward,80,77,73,19
+L. Stindl,28,Germany,Borussia Monchengladbach,German Bundesliga,82,23000000,56000,2,Medium,Forward,71,74,79,62
+B. Schweinsteiger,32,Germany,Chicago Fire,USA Major League Soccer,81,13500000,13000,4,Medium,Midfielder,39,75,77,72
+F. Smolov,27,Russia,FC Krasnodar,Russian Premier League,80,17500000,59000,1,High,Forward,87,73,73,26
+Parejo,28,Spain,Valencia CF,Spain Primera Division,82,22000000,45000,2,Medium,Midfielder,52,71,77,57
+Iborra,29,Spain,Leicester City,English Premier League,82,17000000,85000,2,Medium,Midfielder,50,83,71,81
+Douglas Costa,26,Brazil,Juventus,Italian Serie A,82,24000000,115000,3,Medium,Midfielder,92,64,70,30
+J. Cuadrado,29,Colombia,Juventus,Italian Serie A,82,21500000,130000,3,High,Midfielder,91,65,70,63
+G. Medel,29,Chile,Besiktas JK,Turkish Super Lig,82,17000000,64000,3,Low,Midfielder,74,81,59,81
+Pizzi,27,Portugal,SL Benfica,Portuguese Primeira Liga,82,23000000,19000,3,High,Midfielder,79,69,72,59
+Jonathan Viera,27,Spain,UD Las Palmas,Spain Primera Division,82,23000000,31000,2,High,Midfielder,81,68,67,51
+F. Acerbi,29,Italy,Sassuolo,Italian Serie A,82,17000000,68000,2,Medium,Defender,62,77,50,86
+K. Bellarabi,27,Germany,Bayer 04 Leverkusen,German Bundesliga,82,23000000,67000,3,High,Forward,92,68,70,30
+Roque Mesa,28,Spain,Swansea City,English Premier League,82,18000000,85000,2,High,Midfielder,77,80,58,77
+F. Vazquez,28,Italy,Sevilla FC,Spain Primera Division,82,22500000,27000,2,Medium,Midfielder,64,75,76,37
+C. Bacca,30,Colombia,Villarreal CF,Spain Primera Division,82,21500000,125000,3,Medium,Forward,77,70,75,14
+Felipe,28,Brazil,FC Porto,Portuguese Primeira Liga,82,18000000,20000,3,Medium,Defender,68,81,56,82
+I. Slimani,29,Algeria,Leicester City,English Premier League,82,22000000,100000,3,High,Forward,69,86,76,35
+Gabriel Jesus,20,Brazil,Manchester City,English Premier League,81,31000000,115000,2,High,Forward,87,67,71,19
+A. Christensen,21,Denmark,Chelsea,English Premier League,81,23000000,86000,2,Low,Defender,64,69,53,85
+Hector Bellerin,22,Spain,Arsenal,English Premier League,81,21000000,91000,3,High,Defender,95,70,61,78
+D. Sanchez,21,Colombia,Tottenham Hotspur,English Premier League,81,21500000,70000,2,Medium,Defender,71,83,50,83
+Gelson Martins,22,Portugal,Sporting CP,Portuguese Primeira Liga,81,25000000,20000,3,High,Midfielder,94,60,69,42
+M. Lanzini,24,Argentina,West Ham United,English Premier League,81,24500000,95000,2,Medium,Midfielder,82,55,68,26
+J. Butland,24,England,Stoke City,English Premier League,81,18000000,50000,2,Medium,Goalkeepr,,,17,13
+M. Keane,24,England,Everton,English Premier League,81,21000000,91000,2,Medium,Defender,72,82,62,82
+M. Sanson,22,France,Olympique de Marseille,French Ligue 1,81,24000000,34000,2,Medium,Midfielder,76,77,75,75
+D. Berardi,22,Italy,Sassuolo,Italian Serie A,81,24500000,62000,2,High,Forward,85,72,74,27
+J. Kimmich,22,Germany,FC Bayern Munchen,German Bundesliga,81,20500000,81000,2,High,Defender,70,73,74,78
+Williams,23,Spain,Athletic Club de Bilbao,Spain Primera Division,81,24500000,31000,2,High,Forward,93,79,73,32
+J. Weigl,21,Germany,Borussia Dortmund,German Bundesliga,81,21000000,46000,3,Medium,Midfielder,70,68,62,75
+Nelson Semedo,23,Portugal,FC Barcelona,Spain Primera Division,81,20500000,125000,2,High,Defender,92,71,60,77
+R. Barkley,23,England,Everton,English Premier League,81,24000000,105000,2,Medium,Midfielder,77,77,69,55
+Sergi Roberto,25,Spain,FC Barcelona,Spain Primera Division,81,19500000,140000,3,Medium,Defender,77,72,68,81
+Rafinha,24,Brazil,FC Barcelona,Spain Primera Division,81,23500000,140000,2,Medium,Midfielder,74,64,73,62
+Felipe Anderson,24,Brazil,Lazio,Italian Serie A,81,24000000,57000,3,High,Forward,92,62,68,52
+R. Guerreiro,23,Portugal,Borussia Dortmund,German Bundesliga,81,24000000,58000,3,Medium,Midfielder,77,63,75,74
+A. Rabiot,22,France,Paris Saint-Germain,French Ligue 1,81,23500000,77000,2,High,Midfielder,70,77,73,71
+Bruma,22,Portugal,RB Leipzig,German Bundesliga,81,24000000,63000,2,High,Midfielder,93,65,66,29
+M. Gotze,25,Germany,Borussia Dortmund,German Bundesliga,81,22500000,63000,4,Medium,Midfielder,68,62,74,27
+J. Corona,24,Mexico,FC Porto,Portuguese Primeira Liga,81,23000000,17000,3,High,Midfielder,83,51,73,33
+S. Aurier,24,Ivory Coast,Tottenham Hotspur,English Premier League,81,19000000,79000,2,High,Defender,84,84,69,80
+H. Ziyech,24,Morocco,Ajax,Dutch Eredivisie,81,23000000,16000,2,High,Midfielder,76,64,74,45
+M. Brozovic,24,Croatia,Inter,Italian Serie A,81,23000000,64000,2,High,Midfielder,73,69,70,69
+Camacho,27,Spain,VfL Wolfsburg,German Bundesliga,81,18000000,66000,2,Medium,Defender,61,81,65,77
+J. Wilshere,25,England,Arsenal,English Premier League,81,22000000,115000,3,Medium,Midfielder,71,72,69,63
+Mario Gaspar,26,Spain,Villarreal CF,Spain Primera Division,81,18000000,38000,2,High,Defender,81,81,73,82
+R. Rodriguez,24,Switzerland,Milan,Italian Serie A,81,18500000,83000,3,Medium,Defender,74,72,71,79
+W. Zaha,24,Ivory Coast,Crystal Palace,English Premier League,81,22500000,60000,2,High,Midfielder,90,72,65,34
+C. Bakambu,26,DR Congo,Villarreal CF,Spain Primera Division,81,22500000,45000,2,Medium,Forward,87,74,76,27
+T. Meunier,25,Belgium,Paris Saint-Germain,French Ligue 1,81,18500000,77000,2,High,Defender,76,84,77,80
+Jorginho,25,Italy,Napoli,Italian Serie A,81,22000000,71000,2,Medium,Midfielder,75,68,68,69
+C. Benteke,26,Belgium,Crystal Palace,English Premier League,81,22000000,75000,3,Medium,Forward,73,80,74,24
+L. Hradecky,27,Finland,Eintracht Frankfurt,German Bundesliga,81,14500000,28000,2,Medium,Goalkeepr,,,11,11
+Marcos Alonso,26,Spain,Chelsea,English Premier League,81,17500000,115000,2,High,Defender,77,80,69,78
+Mario Fernandes,26,Russia,PFC CSKA Moscow,Russian Premier League,81,17500000,52000,2,High,Midfielder,84,77,67,82
+D. Lovren,27,Croatia,Liverpool,English Premier League,81,17500000,110000,2,Medium,Defender,56,82,56,82
+K. Kampl,26,Slovenia,RB Leipzig,German Bundesliga,81,21000000,73000,2,High,Midfielder,80,62,61,56
+G. Krychowiak,27,Poland,West Bromwich Albion,English Premier League,81,17500000,81000,3,Medium,Midfielder,65,86,61,76
+S. Coates,26,Uruguay,Sporting CP,Portuguese Primeira Liga,81,18000000,21000,3,Medium,Defender,58,86,51,82
+Bartra,26,Spain,Borussia Dortmund,German Bundesliga,81,18000000,61000,3,High,Defender,77,71,60,81
+J. Cillessen,28,Netherlands,FC Barcelona,Spain Primera Division,81,15000000,125000,3,Medium,Goalkeepr,,,21,14
+Nacho Fernandez,27,Spain,Real Madrid,Spain Primera Division,81,17500000,145000,2,Medium,Defender,76,78,59,82
+A. Kramaric,26,Croatia,TSG 1899 Hoffenheim,German Bundesliga,81,22000000,50000,2,Medium,Forward,73,71,76,22
+S. Kjar,28,Denmark,Sevilla FC,Spain Primera Division,81,16000000,23000,3,Low,Defender,64,81,61,81
+S. Jovetic,27,Montenegro,AS Monaco,French Ligue 1,81,21000000,48000,3,High,Forward,77,67,77,29
+M. Sakho,27,France,Crystal Palace,English Premier League,81,17000000,63000,3,Medium,Defender,61,85,50,80
+Giuliano,27,Brazil,Fenerbahce SK,Turkish Super Lig,81,20500000,80000,2,High,Midfielder,81,73,71,43
+R. Boudebouz,27,Algeria,Real Betis,Spain Primera Division,81,20500000,32000,2,High,Midfielder,76,62,72,31
+S. Rudy,27,Germany,FC Bayern Munchen,German Bundesliga,81,20000000,105000,2,Medium,Midfielder,71,67,69,73
+C. Smalling,27,England,Manchester United,English Premier League,81,17000000,120000,3,Medium,Defender,72,83,61,81
+W. Ben Yedder,26,France,Sevilla FC,Spain Primera Division,81,21000000,26000,2,High,Forward,83,63,77,25
+S. Zaza,26,Italy,Valencia CF,Spain Primera Division,81,21000000,44000,2,High,Forward,79,83,73,34
+Dani Garcia,27,Spain,SD Eibar,Spain Primera Division,81,17000000,26000,2,Medium,Midfielder,48,80,58,74
+S. Eto'o,36,Cameroon,Antalyaspor,Turkish Super Lig,81,6500000,22000,3,Medium,Forward,74,71,77,31
+Fernando Torres,33,Spain,Atletico Madrid,Spain Primera Division,81,11000000,68000,3,Medium,Forward,76,69,76,19
+T. Motta,34,Italy,Paris Saint-Germain,French Ligue 1,81,5500000,81000,3,Medium,Midfielder,32,82,71,75
+P. Mertesacker,32,Germany,Arsenal,English Premier League,81,10000000,110000,3,Low,Defender,27,70,51,85
+W. Rooney,31,England,Everton,English Premier League,81,15500000,120000,4,Medium,Forward,68,81,79,45
+Moya,33,Spain,Atletico Madrid,Spain Primera Division,81,9000000,46000,2,Medium,Goalkeepr,,,16,14
+A. Granqvist,32,Sweden,FC Krasnodar,Russian Premier League,80,8500000,50000,2,High,Defender,48,78,58,82
+K. El Ahmadi,32,Morocco,Feyenoord,Dutch Eredivisie,80,11000000,23000,2,Medium,Midfielder,65,78,64,72
+V. Enyeama,34,Nigeria,LOSC Lille,French Ligue 1,81,7000000,40000,3,Medium,Goalkeepr,,,18,12
+F. Muslera,31,Uruguay,Galatasaray SK,Turkish Super Lig,82,13500000,57000,3,Medium,Goalkeepr,,,18,16
+C. Carrasso,35,France,Galatasaray SK,Turkish Super Lig,81,4200000,34000,3,Medium,Goalkeepr,,,14,13
+Gabi,33,Spain,Atletico Madrid,Spain Primera Division,81,10500000,62000,3,Medium,Midfielder,64,73,67,76
+Y. Belhanda,27,Morocco,Galatasaray SK,Turkish Super Lig,81,18500000,71000,2,Medium,Midfielder,75,70,74,52
+Dante,33,Brazil,OGC Nice,French Ligue 1,81,7000000,39000,3,Medium,Defender,45,74,62,82
+H. Ben Arfa,30,France,Paris Saint-Germain,French Ligue 1,81,17000000,88000,3,Medium,Midfielder,76,69,71,30
+T. Heaton,31,England,Burnley,English Premier League,81,11000000,51000,2,Medium,Goalkeepr,,,18,14
+M. Skrtel,32,Slovakia,Fenerbahce SK,Turkish Super Lig,81,10000000,73000,3,Medium,Defender,61,81,54,81
+Raul Garcia,30,Spain,Athletic Club de Bilbao,Spain Primera Division,81,17000000,32000,2,High,Midfielder,57,76,76,63
+K. Mirallas,29,Belgium,Everton,English Premier League,81,17500000,125000,2,High,Midfielder,83,65,76,48
+D. Astori,30,Italy,Fiorentina,Italian Serie A,81,13000000,68000,2,Low,Defender,68,77,46,83
+S. Mignolet,29,Belgium,Liverpool,English Premier League,81,12000000,91000,3,Medium,Goalkeepr,,,18,14
+M. Valbuena,32,France,Fenerbahce SK,Turkish Super Lig,81,14000000,86000,3,Medium,Midfielder,80,49,72,27
+Adan,30,Spain,Real Betis,Spain Primera Division,81,11500000,24000,2,Medium,Goalkeepr,,,19,14
+S. Coleman,28,Republic of Ireland,Everton,English Premier League,81,14000000,115000,2,High,Defender,73,77,70,83
+A. Rami,31,France,Olympique de Marseille,French Ligue 1,81,12000000,35000,3,Medium,Defender,53,82,53,80
+K. Mitroglou,29,Greece,Olympique de Marseille,French Ligue 1,81,18000000,44000,3,Medium,Forward,58,83,75,12
+M. Parolo,32,Italy,Lazio,Italian Serie A,81,13500000,60000,2,High,Midfielder,71,81,74,78
+D. Perotti,28,Argentina,Roma,Italian Serie A,81,18000000,84000,3,Medium,Forward,81,59,69,26
+N. Kalinic,29,Croatia,Milan,Italian Serie A,81,18000000,84000,3,High,Forward,73,76,75,27
+Paulinho,28,Brazil,FC Barcelona,Spain Primera Division,81,17500000,165000,3,High,Midfielder,76,76,74,76
+Iturraspe,28,Spain,Athletic Club de Bilbao,Spain Primera Division,81,17500000,33000,2,High,Midfielder,59,72,66,78
+De Marcos,28,Spain,Athletic Club de Bilbao,Spain Primera Division,81,14000000,31000,2,High,Defender,86,79,66,75
+Illarramendi,27,Spain,Real Sociedad,Spain Primera Division,81,18000000,37000,2,Medium,Midfielder,60,70,64,79
+J. dos Santos,27,Mexico,LA Galaxy,USA Major League Soccer,80,16500000,13000,1,High,Midfielder,66,67,72,57
+A. Yarmolenko,27,Ukraine,Borussia Dortmund,German Bundesliga,81,18500000,72000,2,High,Forward,81,76,77,27
+Lucas Perez,28,Spain,Deportivo de La Coruna,Spain Primera Division,81,18500000,135000,2,High,Forward,81,71,76,25
+J. Vardy,30,England,Leicester City,English Premier League,81,17000000,89000,3,High,Forward,91,78,70,50
+Y. Tielemans,20,Belgium,AS Monaco,French Ligue 1,80,23500000,35000,2,Medium,Midfielder,53,71,73,68
+M. Rashford,19,England,Manchester United,English Premier League,80,22500000,86000,2,High,Midfielder,92,74,73,26
+D. Rugani,22,Italy,Juventus,Italian Serie A,80,19000000,88000,1,Low,Defender,61,75,51,83
+J. Brandt,21,Germany,Bayer 04 Leverkusen,German Bundesliga,80,22000000,49000,2,Medium,Forward,81,61,67,23
+Denis Suarez,23,Spain,FC Barcelona,Spain Primera Division,80,20500000,140000,2,Medium,Midfielder,79,58,70,47
+Arrizabalaga,22,Spain,Athletic Club de Bilbao,Spain Primera Division,80,15500000,20000,1,Medium,Goalkeepr,,,21,18
+Grimaldo,21,Spain,SL Benfica,Portuguese Primeira Liga,80,17500000,12000,3,High,Defender,86,72,65,76
+P. Zielinski,23,Poland,Napoli,Italian Serie A,80,20500000,64000,3,Medium,Midfielder,83,60,69,64
+Malcom,20,Brazil,FC Girondins de Bordeaux,French Ligue 1,80,21000000,47000,2,Medium,Forward,83,63,70,20
+Ricardo Pereira,23,Portugal,FC Porto,Portuguese Primeira Liga,80,17000000,15000,3,High,Defender,88,70,67,78
+Jemerson,24,Brazil,AS Monaco,French Ligue 1,80,17500000,35000,2,Medium,Defender,63,75,51,80
+S. Milinkovic-Savic,22,Serbia,Lazio,Italian Serie A,80,20000000,52000,2,High,Midfielder,71,83,72,70
+O. Ozyakup,24,Turkey,Besiktas JK,Turkish Super Lig,80,19500000,54000,2,Medium,Midfielder,75,69,71,58
+A. Oxlade-Chamberlain,23,England,Liverpool,English Premier League,80,20000000,105000,2,High,Midfielder,88,71,64,54
+L. Kurzawa,24,France,Paris Saint-Germain,French Ligue 1,80,16500000,69000,2,High,Defender,77,75,74,79
+J. Brooks,24,United States,VfL Wolfsburg,German Bundesliga,80,17000000,57000,2,Medium,Defender,74,77,53,81
+M. Batshuayi,23,Belgium,Chelsea,English Premier League,80,20000000,120000,2,Medium,Forward,79,74,72,21
+E. Can,23,Germany,Liverpool,English Premier League,80,19500000,105000,2,High,Midfielder,71,84,68,79
+I. Piatti,32,Argentina,Montreal Impact,USA Major League Soccer,80,11500000,14000,2,High,Forward,77,74,67,47
+Samu Castillejo,22,Spain,Villarreal CF,Spain Primera Division,80,20000000,36000,2,Medium,Midfielder,86,48,66,30
+N. Bentaleb,22,Algeria,FC Schalke 04,German Bundesliga,80,19500000,42000,2,Medium,Midfielder,67,72,66,68
+T. Hazard,24,Belgium,Borussia Monchengladbach,German Bundesliga,80,19500000,44000,2,High,Midfielder,81,64,72,36
+L. Karius,24,Germany,Liverpool,English Premier League,80,14000000,71000,2,Medium,Goalkeepr,,,19,12
+M. Nastasic,24,Serbia,FC Schalke 04,German Bundesliga,80,16500000,38000,2,Low,Defender,70,75,51,84
+K. Demirbay,23,Germany,TSG 1899 Hoffenheim,German Bundesliga,80,19500000,40000,2,High,Midfielder,68,71,66,53
+Alex Telles,24,Brazil,FC Porto,Portuguese Primeira Liga,80,16000000,15000,3,High,Defender,83,74,69,76
+Alisson,24,Brazil,Roma,Italian Serie A,80,14000000,45000,1,Medium,Goalkeepr,,,19,18
+E. Lamela,25,Argentina,Tottenham Hotspur,English Premier League,80,18500000,96000,2,High,Midfielder,76,67,76,41
+J. McCarthy,26,Republic of Ireland,Everton,English Premier League,80,15500000,110000,2,Medium,Midfielder,70,81,66,78
+S. El Shaarawy,24,Italy,Roma,Italian Serie A,80,19000000,71000,3,High,Forward,87,58,69,27
+R. Pereyra,26,Argentina,Watford,English Premier League,80,18000000,69000,2,High,Midfielder,78,68,71,68
+Hugo Mallo,26,Spain,RC Celta,Spain Primera Division,80,15000000,29000,2,High,Defender,74,76,55,79
+Pablo Sarabia,25,Spain,Sevilla FC,Spain Primera Division,80,18500000,23000,2,High,Midfielder,76,53,70,27
+L. Muriel,26,Colombia,Sevilla FC,Spain Primera Division,80,18500000,26000,2,High,Forward,89,72,71,21
+K. Volland,24,Germany,Bayer 04 Leverkusen,German Bundesliga,80,19000000,59000,2,High,Forward,77,82,76,33
+Leo Baptistao,24,Brazil,RCD Espanyol,Spain Primera Division,80,19000000,36000,2,Medium,Forward,79,64,76,20
+S. Kolasinac,24,Bosnia Herzegovina,Arsenal,English Premier League,80,15500000,91000,2,Medium,Defender,78,89,58,82
+Sidnei,27,Brazil,Deportivo de La Coruna,Spain Primera Division,80,14500000,29000,2,High,Defender,51,81,58,80
+K. Vogt,25,Germany,TSG 1899 Hoffenheim,German Bundesliga,80,15000000,40000,2,Medium,Defender,76,80,63,78
+Kaka,35,Brazil,Orlando City SC,USA Major League Soccer,80,6500000,10000,3,High,Midfielder,62,58,73,25
+J. Guilavogui,26,France,VfL Wolfsburg,German Bundesliga,80,15000000,66000,2,Medium,Midfielder,70,81,61,82
+Allan,26,Brazil,Napoli,Italian Serie A,80,17500000,74000,2,Medium,Midfielder,77,81,65,80
+G. Rodriguez,33,Argentina,San Lorenzo de Almagro,Argentina Superliga,81,7000000,27000,2,Medium,Defender,68,76,52,82
+S. Bender,28,Germany,Bayer 04 Leverkusen,German Bundesliga,80,13500000,59000,2,Medium,Defender,70,80,57,85
+M. Darmian,27,Italy,Manchester United,English Premier League,80,13500000,120000,2,Low,Defender,77,73,66,82
+D. Welbeck,26,England,Arsenal,English Premier League,80,17500000,130000,3,High,Forward,84,78,74,33
+F. Belluschi,33,Argentina,San Lorenzo de Almagro,Argentina Superliga,80,9000000,30000,2,High,Midfielder,70,69,73,56
+Ganso,27,Brazil,Sevilla FC,Spain Primera Division,80,17000000,24000,3,Medium,Midfielder,35,63,76,32
+A. Dzagoev,27,Russia,PFC CSKA Moscow,Russian Premier League,80,16500000,57000,3,High,Forward,77,69,74,71
+Daniel Carrico,28,Portugal,Sevilla FC,Spain Primera Division,80,13500000,23000,2,Medium,Defender,57,78,63,79
+M. Antonio,27,England,West Ham United,English Premier League,80,17500000,120000,2,High,Midfielder,85,82,75,51
+D. Blind,27,Netherlands,Manchester United,English Premier League,80,13500000,120000,3,High,Defender,60,76,68,80
+A. Schurrle,26,Germany,Borussia Dortmund,German Bundesliga,80,17500000,66000,3,High,Midfielder,83,70,76,35
+R. Soriano,26,Italy,Villarreal CF,Spain Primera Division,80,17500000,42000,2,Medium,Midfielder,77,73,75,62
+D. Didavi,27,Germany,VfL Wolfsburg,German Bundesliga,80,17000000,73000,2,Medium,Midfielder,77,72,73,51
+Sergi Enrich,27,Spain,SD Eibar,Spain Primera Division,80,17500000,31000,2,High,Forward,66,79,78,35
+Marlos,29,Brazil,Shakhtar Donetsk,Ukrainian Premier League,82,21500000,1000,2,Medium,Midfielder,83,66,71,45
+J. Hector,27,Germany,1. FC Koln,German Bundesliga,80,14000000,42000,3,Medium,Midfielder,77,77,68,80
+M. Carrick,35,England,Manchester United,English Premier League,80,3500000,86000,3,Low,Midfielder,44,66,71,73
+Julio Cesar,37,Brazil,SL Benfica,Portuguese Primeira Liga,80,1000000,8000,3,Medium,Goalkeepr,,,16,15
+J. Defoe,34,England,Bournemouth,English Premier League,80,8000000,87000,2,Medium,Forward,74,65,71,18
+P. Evra,36,France,Olympique de Marseille,French Ligue 1,80,1700000,25000,3,Medium,Defender,71,72,64,80
+P. Jagielka,34,England,Everton,English Premier League,80,4500000,110000,2,Medium,Defender,50,78,56,82
+C. Kameni,33,Cameroon,Fenerbahce SK,Turkish Super Lig,80,7500000,59000,2,Medium,Goalkeepr,,,15,12
+J. Mathieu,33,France,Sporting CP,Portuguese Primeira Liga,80,6000000,21000,3,High,Defender,72,83,68,79
+M. Topal,31,Turkey,Fenerbahce SK,Turkish Super Lig,80,10000000,73000,2,Medium,Midfielder,68,80,64,81
+A. Hutchinson,34,Canada,Besiktas JK,Turkish Super Lig,80,4500000,56000,2,High,Midfielder,69,79,71,76
+Gomes,36,Brazil,Watford,English Premier League,80,2000000,33000,2,Medium,Goalkeepr,,,16,14
+J. Milner,31,England,Liverpool,English Premier League,80,9500000,110000,2,High,Defender,67,78,76,77
+Taison,29,Brazil,Shakhtar Donetsk,Ukrainian Premier League,82,21500000,1000,2,Medium,Midfielder,92,63,73,44
+F. Marchetti,34,Italy,Lazio,Italian Serie A,80,6000000,44000,2,Medium,Forward,,,18,15
+A. Mirante,33,Italy,Bologna,Italian Serie A,80,7500000,48000,2,Medium,Goalkeepr,,,18,14
+D. Srna,35,Croatia,Shakhtar Donetsk,Ukrainian Premier League,81,3800000,1000,3,High,Defender,73,74,74,78
+Javi Fuego,33,Spain,RCD Espanyol,Spain Primera Division,80,6000000,34000,2,Medium,Midfielder,56,78,61,80
+Fred,24,Brazil,Shakhtar Donetsk,Ukrainian Premier League,80,19500000,1000,1,High,Midfielder,82,63,68,73
+Y. Rakitskyi,27,Ukraine,Shakhtar Donetsk,Ukrainian Premier League,80,14500000,1000,2,High,Defender,72,78,65,82
+Manuel Fernandes,31,Portugal,Lokomotiv Moscow,Russian Premier League,80,13000000,54000,2,Medium,Midfielder,79,71,71,66
+S. Kalou,31,Ivory Coast,Hertha BSC,German Bundesliga,80,13000000,38000,3,Medium,Midfielder,68,62,77,27
+T. Stepanenko,27,Ukraine,Shakhtar Donetsk,Ukrainian Premier League,80,14000000,1000,1,Medium,Midfielder,67,80,64,79
+V. Ibisevic,32,Bosnia Herzegovina,Hertha BSC,German Bundesliga,80,12000000,41000,2,Medium,Forward,53,76,79,24
+B. Foster,34,England,West Bromwich Albion,English Premier League,80,6000000,60000,2,Medium,Goalkeepr,,,19,15
+L. Fabianski,32,Poland,Swansea City,English Premier League,80,8500000,60000,2,Medium,Goalkeepr,,,15,12
+T. Walcott,28,England,Arsenal,English Premier League,80,15000000,125000,3,Medium,Midfielder,91,66,71,36
+G. Paletta,31,Italy,Milan,Italian Serie A,80,10000000,96000,3,Low,Defender,51,82,41,83
+G. Cabral,31,Argentina,RC Celta,Spain Primera Division,80,10000000,29000,2,Medium,Defender,42,78,48,82
+D. Basta,32,Serbia,Lazio,Italian Serie A,80,8000000,54000,2,High,Midfielder,76,76,70,80
+V. Denisov,30,Uzbekistan,Lokomotiv Moscow,Russian Premier League,80,10500000,50000,1,High,Defender,83,79,61,80
+Jardel,31,Brazil,SL Benfica,Portuguese Primeira Liga,80,10000000,16000,2,Medium,Defender,60,82,51,81
+M. Berg,30,Sweden,Al Ain FC,UAE Arabian Gulf League,80,34048387,129625,3,High,Forward,75,71,72,23
+R. Bertrand,27,England,Southampton,English Premier League,80,12000000,86000,2,High,Defender,79,75,64,81
+A. Guardado,30,Mexico,Real Betis,Spain Primera Division,80,13500000,32000,3,Medium,Midfielder,76,68,68,68
+Coke,30,Spain,FC Schalke 04,German Bundesliga,80,10500000,44000,2,High,Defender,75,73,69,79
+D. Wass,28,Denmark,RC Celta,Spain Primera Division,80,14500000,33000,2,Medium,Midfielder,75,71,73,65
+D. Criscito,30,Italy,Zenit St. Petersburg,Russian Premier League,80,10500000,67000,2,High,Defender,77,79,68,80
+A. Candreva,30,Italy,Inter,Italian Serie A,80,14000000,74000,3,Medium,Midfielder,78,71,73,54
+S. Romero,30,Argentina,Manchester United,English Premier League,80,9500000,97000,3,Medium,Goalkeepr,,,19,13
+H. Moreno,29,Mexico,Roma,Italian Serie A,80,11500000,71000,3,Medium,Defender,66,75,64,82
+Marcano,30,Spain,FC Porto,Portuguese Primeira Liga,80,11000000,18000,3,Medium,Defender,68,78,56,80
+K. Boateng,30,Ghana,Eintracht Frankfurt,German Bundesliga,80,14500000,41000,3,Medium,Forward,73,78,77,67
+Pedro Leon,30,Spain,SD Eibar,Spain Primera Division,80,14000000,29000,2,High,Midfielder,67,62,70,39
+V. Birsa,30,Slovenia,Chievo Verona,Italian Serie A,80,14000000,25000,2,Medium,Midfielder,75,72,71,45
+A. Gignac,31,France,Tigres U.A.N.L.,Mexican Liga MX,81,16000000,84000,3,Medium,Forward,72,82,78,29
+M. Diaz,30,Chile,U.N.A.M.,Mexican Liga MX,80,13500000,31000,2,Medium,Midfielder,61,74,68,74
+A. Fernandez,31,Argentina,Atletico Madrid,Spain Primera Division,80,12500000,62000,2,Medium,Midfielder,69,75,67,66
+L. Podolski,32,Germany,Vissel Kobe,Japanese J1 League,80,12000000,13000,3,Medium,Forward,78,74,78,37
+S. Tasci,30,Germany,Spartak Moscow,Russian Premier League,80,11000000,67000,2,Medium,Defender,66,69,58,81
+Nacho Monreal,31,Spain,Arsenal,English Premier League,80,9500000,110000,2,High,Defender,73,72,63,81
+Kiko Casilla,30,Spain,Real Madrid,Spain Primera Division,80,9500000,120000,2,Medium,Goalkeepr,,,21,13
+Eder,30,Italy,Inter,Italian Serie A,80,14500000,80000,3,High,Forward,85,63,73,21
